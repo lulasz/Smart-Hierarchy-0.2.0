@@ -1,4 +1,4 @@
-﻿#if UNITY_EDITOR
+//﻿#if UNITY_EDITOR
 using UnityEngine;
 
 // No namespace cause it removes default Folder icon
@@ -6,4 +6,4 @@ using UnityEngine;
 internal class Folder : MonoBehaviour
 {
 }
-#endif
+//#endif
